@@ -1,4 +1,4 @@
-# Reddit Thread to Markdown — Browser Extension
+# ReddMark - Reddit Thread to Markdown — Browser Extension
 
 Download any Reddit post and its full comment tree as a clean `.md` file in one click.
 
